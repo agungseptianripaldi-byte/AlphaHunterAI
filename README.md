@@ -1,2 +1,3 @@
-# AlphaHunterAI
-AI crypto trading assistant and market analyzer
+# IseCrypto.bot
+
+AI crypto bot and market analyzer
